@@ -7,4 +7,4 @@ pass varbinary(max) not null
 go
 
 select * from users
-go
+GO
